@@ -1,0 +1,9 @@
+{
+  "extends": [
+    "@cleitonptf/eslint-config/node",
+    "plugin:drizzle/all"
+  ],
+  "plugins": [
+    "drizzle"
+  ]
+}
